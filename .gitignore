@@ -1,0 +1,15 @@
+.DS_Store
+.dart_tool/
+
+.packages
+.pub/
+
+build/
+/CHANGELOG.md
+/digiwhale_im.iml
+/LICENSE
+/pubspec.lock
+/.metadata
+/.packages
+/example/pubspec.lock
+/.idea

@@ -1,0 +1,45 @@
+PODS:
+  - digiwhale_im (0.0.1):
+    - Flutter
+    - NIMSDK_LITE
+  - Flutter (1.0.0)
+  - flutter_keyboard_visibility (0.0.1):
+    - Flutter
+  - keyboard_visibility (0.5.0):
+    - Flutter
+    - Reachability
+  - NIMSDK_LITE (8.7.0)
+  - Reachability (3.2)
+
+DEPENDENCIES:
+  - digiwhale_im (from `.symlinks/plugins/digiwhale_im/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_keyboard_visibility (from `.symlinks/plugins/flutter_keyboard_visibility/ios`)
+  - keyboard_visibility (from `.symlinks/plugins/keyboard_visibility/ios`)
+
+SPEC REPOS:
+  trunk:
+    - NIMSDK_LITE
+    - Reachability
+
+EXTERNAL SOURCES:
+  digiwhale_im:
+    :path: ".symlinks/plugins/digiwhale_im/ios"
+  Flutter:
+    :path: Flutter
+  flutter_keyboard_visibility:
+    :path: ".symlinks/plugins/flutter_keyboard_visibility/ios"
+  keyboard_visibility:
+    :path: ".symlinks/plugins/keyboard_visibility/ios"
+
+SPEC CHECKSUMS:
+  digiwhale_im: e487b38626a32fa94b65604582e15451051ef84a
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  flutter_keyboard_visibility: 0339d06371254c3eb25eeb90ba8d17dca8f9c069
+  keyboard_visibility: 96a24de806fe6823c3ad956c01ba2ec6d056616f
+  NIMSDK_LITE: e70c01f89353c0f39a42091ea8674f838efe4a17
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.10.2
